@@ -1,0 +1,27 @@
+{
+  "name": "source-map-examples",
+  "version": "0.0.0",
+  "description": "Playing with source maps",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/royvandewater/source-map-examples.git"
+  },
+  "keywords": [
+    "source",
+    "maps",
+    "coffee",
+    "script"
+  ],
+  "dependencies": {
+    "which": "1.0.5",
+    "coffee-script": "1.6.2"
+  },
+  "author": "Roy van de Water",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "b7af4270f3039e6adc733ad431647464ab43b8ac"
+}
